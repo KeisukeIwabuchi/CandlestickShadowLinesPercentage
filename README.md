@@ -1,0 +1,2 @@
+# CandlestickShadowLinesPercentage
+ローソク足実体に対するヒゲの割合を描画するインジケーター
